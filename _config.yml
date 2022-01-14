@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "An amazing website."
-url                      : "https:// ubless607.github.io"
+url                      : "https://ubless607.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ubless607/ubless607.github.io.git"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
