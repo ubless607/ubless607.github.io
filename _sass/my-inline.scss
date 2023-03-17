@@ -80,4 +80,8 @@
     transform-origin: top;
     transform: scaleY(1);
     transition: transform .2s ease-out;
-  }
+ }
+
+#markdown-toc.affix {
+    top: 5rem !important;
+}

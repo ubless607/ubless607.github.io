@@ -94,11 +94,11 @@ google_fonts:          Noto+Serif:400, 700|Roboto+Slab:700|Noto+Sans:400,400i,70
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  Noto Sans, Helvetica, Arial, sans-serif
+font:                  NanumBarunGothic, 나눔바른고딕, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading:          Noto Serif, Roboto Slab, Helvetica, Arial, sans-serif
+font_heading:          NanumBarunGothic, 나눔바른고딕, Noto Serif, Roboto Slab, Helvetica, Arial, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
