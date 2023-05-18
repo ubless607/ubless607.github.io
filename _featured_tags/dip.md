@@ -1,8 +1,8 @@
 ---
 layout: tag-list
 type: tag
-title: Processing
-slug: Processing
+title: DIP
+slug: DIP
 category: TIL
 sidebar: true
 order: 2
